@@ -1,4 +1,4 @@
-# MC202 - Estrutura de Dados
+# Data structures
 
-Trabalhos feitos na linguagem C aplicando conhecimentos que envolvem Estrutura de Dados.
-Cada lab foi feito para resolver um problema específico utilizando téncicas de programação, TAD, e Estruturas de Dados (Árvore Binária, Grafos, Pilha/Fila, Hashing).
+Work done in the C language applying data structures during an course at IC-UNICAMP.
+Each lab was designed to solve a specific problem using programming techniques, TAD, and Data Structures (Binary Tree, Graphs, Stack/Queue, Hashing).
